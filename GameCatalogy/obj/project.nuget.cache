@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKC3HkpSwfDoBiLaTA8KtVAQNivrCeSyYbeSmgnZ3g8IM+wMkGEiWgxlP1pfakimdR7EFPZwzv0wyQJUzyvLAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karina\\Desktop\\GameCatalogy\\GameCatalogy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Karina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Karina\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

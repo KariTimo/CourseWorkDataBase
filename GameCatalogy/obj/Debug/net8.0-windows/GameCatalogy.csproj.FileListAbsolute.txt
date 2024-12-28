@@ -1,0 +1,75 @@
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.exe
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.deps.json
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.runtimeconfig.json
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.pdb
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.AssemblyReference.cache
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.Form1.resources
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.GenerateResource.cache
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfoInputs.cache
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfo.cs
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.CoreCompileInputs.cache
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCata.1ED2C37F.Up2Date
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\refint\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.pdb
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.genruntimeconfig.cache
+D:\Учёба\3.1k\SUBD\kurs new\GameCatalogy\obj\Debug\net8.0-windows\ref\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.exe
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.deps.json
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.runtimeconfig.json
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.pdb
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.AssemblyReference.cache
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.Autorization.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.GenerateResource.cache
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfoInputs.cache
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfo.cs
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.CoreCompileInputs.cache
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCata.1ED2C37F.Up2Date
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\refint\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.pdb
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.genruntimeconfig.cache
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\ref\GameCatalogy.dll
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AdminForm.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.UserForm.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.OwnLibrary.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.FormRegistry.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.FormReview.resources
+D:\Учёба\3.1k\SUBD\kurs new\Karina\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AdminEditForm.resources
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.exe
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.deps.json
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.runtimeconfig.json
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.dll
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\GameCatalogy.pdb
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Karina\Desktop\GameCatalogy\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AdminEditForm.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AdminForm.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.Autorization.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.FormRegistry.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.FormReview.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.OwnLibrary.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.UserForm.resources
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.AssemblyInfo.cs
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCata.1ED2C37F.Up2Date
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.dll
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\refint\GameCatalogy.dll
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.pdb
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\GameCatalogy.genruntimeconfig.cache
+C:\Users\Karina\Desktop\GameCatalogy\obj\Debug\net8.0-windows\ref\GameCatalogy.dll
